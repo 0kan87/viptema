@@ -1,0 +1,7 @@
+{
+    "require": {
+        "filp/whoops": "^2.14",
+        "sonata-project/google-authenticator": "^2.3",
+        "ezyang/htmlpurifier": "^4.16"
+    }
+}
