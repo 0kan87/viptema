@@ -1,5 +1,6 @@
 {
     "name": "viptema/anayapi",
+    "description": "Bu paket viptema yazılımlarında kullanılan ana yapıyı içerir.",
     "require": {
         "filp/whoops": "^2.14",
         "sonata-project/google-authenticator": "^2.3",
