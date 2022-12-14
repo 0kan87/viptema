@@ -4,6 +4,7 @@
     "type": "project",
     "description": "Bu paket viptema yazılımlarında kullanılan ana yapıyı içerir.",
     "require": {
+        "viptema/anayapi":"dev-master@dev",
         "filp/whoops": "^2.14",
         "sonata-project/google-authenticator": "^2.3",
         "ezyang/htmlpurifier": "^4.16"
