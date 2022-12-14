@@ -7,13 +7,5 @@
         "filp/whoops": "^2.14",
         "sonata-project/google-authenticator": "^2.3",
         "ezyang/htmlpurifier": "^4.16"
-    },
-    "authors": [
-        {
-            "name": "vip tema web tasarım",
-            "email": "destek@viptema.com",
-            "homepage": "https://viptema.com",
-            "role": "Developer"
-        }
-    ]
+    }
 }
