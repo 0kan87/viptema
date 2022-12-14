@@ -2,7 +2,6 @@
     "name": "viptema/anayapi",
     "license": "MIT",
     "type": "project",
-    "version": "1.0.1",
     "description": "Bu paket viptema yazılımlarında kullanılan ana yapıyı içerir.",
     "require": {
         "filp/whoops": "^2.14",
