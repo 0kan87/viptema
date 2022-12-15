@@ -1,8 +1,13 @@
 {
     "name": "viptema/anayapi",
     "license": "MIT",
-    "type": "project",
+    "version": "1.0.1",
     "description": "Bu paket viptema yazılımlarında kullanılan ana yapıyı içerir.",
+    "require": {
+        "filp/whoops": "^2.14",
+        "sonata-project/google-authenticator": "^2.3",
+        "ezyang/htmlpurifier": "^4.16"
+    },
     "authors": [
         {
             "name": "vip tema web tasarım",
